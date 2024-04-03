@@ -2,7 +2,7 @@
 
 ## Tested against Windows 10 / Python 3.11 / Anaconda
 
-### pip install consolectrlhandler
+### pip install consolectrlchandler
 
 
 
